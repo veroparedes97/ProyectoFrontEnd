@@ -1,0 +1,64 @@
+*{
+	overflow: auto;
+}
+header, section {
+	font-family: Tahoma;
+	background: black;
+}
+
+#redes{
+	margin-top: 30px;
+	left: 780px;
+	position: absolute;
+}
+
+#imgHeader, #imgPerfil{
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	background-color: aliceblue;
+	margin: 10px 0 10px 40px;
+}
+
+#banner, #imgPerfil{
+	background-color: rgb(128, 125, 125);
+	height: 400px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#imgPerfil{
+	background: beige;
+	width: 150px;
+	height: 150px;
+	left: 180px;
+	margin-top: 340px;
+	position: absolute;
+}
+
+#nombre-titulo, #infoProfesional{
+	background: rgb(241, 209, 170);
+	height: 300px;
+}
+
+#infoProfesional{
+	background: rgb(207, 191, 163);
+}
+
+#experiencia, #educacion, #habilidades, #proyecto{
+	background: rgb(140, 133, 138);
+	height: 500px;
+}
+
+#educacion{
+	background: rgb(209, 179, 237);
+}
+
+#habilidades{
+	background: rgb(164, 146, 182);
+}
+
+#proyecto{
+	background: rgb(132, 125, 139);
+}
+
